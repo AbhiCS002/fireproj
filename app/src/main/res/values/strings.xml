@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">fireproj</string>
+    <string name="enter_name">enter name</string>
+    <array name="genres" >
+        <item>abc</item>
+        <item>def</item>
+        <item>pqr</item>
+        <item>xyz</item>
+
+
+    </array>
+</resources>
